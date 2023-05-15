@@ -6,7 +6,7 @@ for i in range(1,num):
         li.append(i)
 for i in li:
     sum+=i
-if sum==num:
+if sum==num
     print("perfect number")
 else:
     print("not a perfect number")
